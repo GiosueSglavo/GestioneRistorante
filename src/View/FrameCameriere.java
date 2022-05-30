@@ -73,7 +73,7 @@ public class FrameCameriere extends JFrame {
 		});
 	}
 
-	/**
+	/** 
 	 * Create the frame.
 	 */
 	public FrameCameriere() {
